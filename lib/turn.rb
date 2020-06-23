@@ -25,8 +25,8 @@ end
 
 # get input
 # convert input to index
-# if index is valid 
-# make the move for index show the board
+# if index is valid
+#   make the move for input
 # else
 #   ask for input again until you get a valid input
 # end
