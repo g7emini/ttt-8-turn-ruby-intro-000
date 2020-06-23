@@ -9,9 +9,7 @@ def display_board(board)
 end
 
 
-def turn(board)
-  puts "Please enter 1-9:"
-	def turn (board)
+def turn (board)
   puts "Please enter 1-9:"
   num = gets.chomp
   index = input_to_index(num)
@@ -21,7 +19,6 @@ def turn(board)
   else
     turn(board)
   end
-end
 end
 
 
