@@ -40,4 +40,4 @@ end
   
 # end
 
-#
+#rspec --fail-fast
