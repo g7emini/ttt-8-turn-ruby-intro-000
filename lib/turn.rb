@@ -16,6 +16,8 @@ end
 
 
 def move
+  
+end
 
 # ask for input
 # get input
