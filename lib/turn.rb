@@ -10,8 +10,8 @@ def display_board(board)
 end
 
 
-def valid_move?
-  
+def valid_move?(board, index)
+  if index 
 end
 
 # ask for input
