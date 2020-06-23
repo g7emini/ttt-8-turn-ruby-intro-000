@@ -39,3 +39,5 @@ end
 # def move(board, index)
   
 # end
+
+#rspec --fail-fast
